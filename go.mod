@@ -1,1 +1,1 @@
-module "rsc.io/quote"
+module "github.com/jettyhan/myquote"
